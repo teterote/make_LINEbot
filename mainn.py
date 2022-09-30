@@ -1,5 +1,3 @@
-$ pip3 install flask
-$ pip3 install line-bot-sdk
 
 
 from flask import Flask, request, abort
